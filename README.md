@@ -1,4 +1,4 @@
-#Phase Locked Loop IC design using Google Skywater 130nm Workshop
+# Phase Locked Loop IC design using Google Skywater 130nm Workshop
 
 ## What is PLL?
 
